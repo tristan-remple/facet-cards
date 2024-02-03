@@ -1,0 +1,170 @@
+[
+	{
+		"Card": "The Scientist",
+		"Hinge": "Obsession",
+		"Aspect": "Virtue",
+		"Upright": "You've been incubating your projects for long enough, and now it's time to act. All of the tools you need are at your disposal. It's time to ignite.",
+		"Reversed": "You've been getting carried away with your ambitious projects lately. Take some time to slow down and consider what you actually need right now. What will benefit you in the long run?"
+	},
+	{
+		"Card": "The Scorpion",
+		"Hinge": "Obsession",
+		"Aspect": "Vice",
+		"Upright": "This is a good time to listen to your instinct. Though you may worry that you're overreacting to a current situation, if it feels like it needs to change, then it does. How can you change your current trajectory?",
+		"Reversed": "Your caution is holding you back from achieving your potential, right now. You can bear to trust the world around you more. Lowering your defenses may result in unexpected opportunities."
+	},
+	{
+		"Card": "The Phoenix",
+		"Hinge": "Rebirth",
+		"Aspect": "Virtue",
+		"Upright": "You're on the cusp of a new era, and it's time to make the leap. Change may seem scary at first, but you'll feel better after letting go of some old baggage.",
+		"Reversed": "It's important to move forward, but don't be so eager to burn down what you've achieved so far. Building on your current progress is not so stagnant as it feels."
+	},
+	{
+		"Card": "The Angel",
+		"Hinge": "Rebirth",
+		"Aspect": "Vice",
+		"Upright": "A road of light lies ahead of you. Don't look back. The future is brighter than you can imagine.",
+		"Reversed": "Doors that were once open to you have now been closed. While regret is tempting, now is not the time to revisit old decisions. Cut your losses and move on."
+	},
+	{
+		"Card": "The Peacock",
+		"Hinge": "Indulgence",
+		"Aspect": "Virtue",
+		"Upright": "This is a good time to indulge in earthly pleasures. A good meal, a shiny trinket, or a fun activity might be just what you need right now. There is no need to be ashamed of your indulgences.",
+		"Reversed": "There is a fine line between the presence of self-care and the absence of self-discipline. While indulging may feel good, there are underlying problems you need to address first. A reward is all the sweeter once deserved."
+	},
+	{
+		"Card": "The Clown",
+		"Hinge": "Indulgence",
+		"Aspect": "Vice",
+		"Upright": "The indulgences you crave are not as destructive as you may be concerned. It's okay to let loose once in a while.",
+		"Reversed": "The pursuit of pleasure comes at a price, and right now that price is getting heavy. The fleeting excitement of the present will not seem so worthwhile in retrospect. What are your real priorities?"
+	},
+	{
+		"Card": "The Protagonist",
+		"Hinge": "Leadership",
+		"Aspect": "Virtue",
+		"Upright": "You've built up a lot of momentum, and there's no reason to assume it will slow down soon. Your enthusiasm is contagious, and all the energy you put out will come back to you.",
+		"Reversed": "You made a lot of promises in the heat of the moment, and now it seems impossible to keep them all. While it hurts to disappoint others, honesty is the best policy."
+	},
+	{
+		"Card": "The Heretic",
+		"Hinge": "Leadership",
+		"Aspect": "Vice",
+		"Upright": "It may seem an impossible task to win people over to your cause, but you are more than capable of it. The light of your conviction shines brightest when you don't hold yourself back.",
+		"Reversed": "The expectations of those closest to you seem a heavy burden to bear. But while you cannot see in yourself the potential they recognize, that doesn't mean it isn't there. This is an opportunity to prove yourself."
+	},
+	{
+		"Card": "The Manta Ray",
+		"Hinge": "Youth",
+		"Aspect": "Virtue",
+		"Upright": "There is so much wonder and beauty in the world around you. Seeing things with fresh eyes is often a blessing.",
+		"Reversed": "Your delight with the world around you has blinded you to important details. It's a wonderful trait to trust, but not everyone is so kind. Now is a good time to get a second opinion about new friends or opportunities."
+	},
+	{
+		"Card": "The Kitsune",
+		"Hinge": "Youth",
+		"Aspect": "Vice",
+		"Upright": "You can afford to be more playful. Appearing cool and mature has it's place, but those are not your most important traits.",
+		"Reversed": "It's all well and good to enjoy some teasing, but you may have taken it too far. Don't let your sharp tongue sever important connections. A gesture of good will might go a long way towards righting recent mistakes."
+	},
+	{
+		"Card": "The Witch",
+		"Hinge": "Community",
+		"Aspect": "Virtue",
+		"Upright": "You do a great service for your community, and they appreciate it more than you may realize. It's okay to rely on the people who rely on you.",
+		"Reversed": "Your work is important, but it is not more important than your health. This may be a good time to consider what you can delegate or delay."
+	},
+	{
+		"Card": "The Sea Serpent",
+		"Hinge": "Community",
+		"Aspect": "Vice",
+		"Upright": "It's okay to enjoy solitude. While you may need to retreat right now, the people who care about you will still be there tomorrow.",
+		"Reversed": "It's okay to need space, but lately you've been taking more space than you need. It's time to reconsider whether your current state of isolation is serving its purpose."
+	},
+	{
+		"Card": "The Chef",
+		"Hinge": "Love",
+		"Aspect": "Virtue",
+		"Upright": "You're overflowing with affection for the people in your life, and that's totally okay. They will appreciate everything you do for them, all the more if you enjoy yourself along the way.",
+		"Reversed": "Although it hurts to admit, you may be misplacing your affections right now. If those you love do not have the time or energy for you, you can do better."
+	},
+	{
+		"Card": "The Wraith",
+		"Hinge": "Love",
+		"Aspect": "Vice",
+		"Upright": "This loneliness serves a purpose, and it is time to think about what that purpose is. What is it that you're missing? How can you light new fires?",
+		"Reversed": "You've kept this candle burning for too long, and it's time to let go. Sometimes the best way to honor your memories of the past is to make new memories in the present."
+	},
+	{
+		"Card": "The King",
+		"Hinge": "Dominance",
+		"Aspect": "Virtue",
+		"Upright": "There are people relying on you, and they are right to do so. Living up to their expectations will be more rewarding than you may realize.",
+		"Reversed": "Your charisma draws people in like moths to the flame. It does not benefit you to burn them."
+	},
+	{
+		"Card": "The Wolf",
+		"Hinge": "Dominance",
+		"Aspect": "Vice",
+		"Upright": "It's not wrong to hunger. The beast inside of you is no less deserving of affection than anyone else. You don't need to blunt your fangs and dull your claws any more.",
+		"Reversed": "It can be fun to bare your fangs, but you need to be mindful of your playmates. If you come on too strong, it can be difficult for others to refuse you."
+	},
+	{
+		"Card": "The Loyalist",
+		"Hinge": "Intimacy",
+		"Aspect": "Virtue",
+		"Upright": "You may have been too intense for some people, but that does not mean you need to tone it down. This time, it's okay to dive right in.",
+		"Reversed": "Putting all your eggs in one basket is never a great idea, and that's especially true now. Tearing yourself away from the one you love may seem agonizing, but a healthy amount of distance will benefit you both."
+	},
+	{
+		"Card": "The Queen",
+		"Hinge": "Intimacy",
+		"Aspect": "Vice",
+		"Upright": "Past betrayals have left an impression on you. It's difficult to trust again, but it may be more difficult in the long run to maintain your vigilance. You can handle more scars, if it comes to that.",
+		"Reversed": "While there is no mistaking that you were wronged, there is also no mistaking you for a perfect victim. Black and white thinking will only trap you in the same cycle going forward."
+	},
+	{
+		"Card": "The Student",
+		"Hinge": "Organization",
+		"Aspect": "Virtue",
+		"Upright": "You have the scaffolding in place to succeed, and your plans are reasonable. All that's left now is to stick to it.",
+		"Reversed": "The systems you have in place are not as efficient as they seemed at first. Re-assessing the way you handle things may be a good idea. It is not too late for trial and error."
+	},
+	{
+		"Card": "The Archivist",
+		"Hinge": "Organization",
+		"Aspect": "Vice",
+		"Upright": "Your penchant for perfection is excessive at times, but now is not one of them. Someone has to enforce order, and you are in a good position to do it.",
+		"Reversed": "Excessive organization is holding you back right now. Your rigidity is making things more difficult, not more efficient. It would do you well to bear in mind that these systems are meant as a means to an end."
+	},
+	{
+		"Card": "The Gardener",
+		"Hinge": "Chaos",
+		"Aspect": "Virtue",
+		"Upright": "You have done all you can to account for factors beyond your control. Now, all that is left to wait and see what comes of it.",
+		"Reversed": "Some things you have been considering outside of your control actually do need to be addressed. You can still get things to turn out how you want them to, but only if you act soon."
+	},
+	{
+		"Card": "The Rockstar",
+		"Hinge": "Chaos",
+		"Aspect": "Vice",
+		"Upright": "Exciting things are happening all around you, and you can and should be a part of them. This is a good time to let yourself get carried away.",
+		"Reversed": "It's understandable to get caught up in the excitement, but you're getting out of control. What routines are you leaving by the wayside, and how can you get back to them?"
+	},
+	{
+		"Card": "The Cat",
+		"Hinge": "Vulnerability",
+		"Aspect": "Virtue",
+		"Upright": "How delightful it is to feel perfectly comfortable around someone. There are few consequences for relaxing and expressing your needs openly. It's okay to be small.",
+		"Reversed": "Your soft nature may be allowing others to take advantage of you. Although you may not wish to bring your claws to bear against those near you, keep in mind that it is an option."
+	},
+	{
+		"Card": "The Martyr",
+		"Hinge": "Vulnerability",
+		"Aspect": "Vice",
+		"Upright": "When there are precious few options available to you, you may be able to get what you need by killing them with kindness. Approaching hostile authorities with kindness could pay unexpected dividends.",
+		"Reversed": "Not all weapons are immediately visible, and your vulnerability is one of the less obvious ones. You cannot go on asking people to choose between hurting you and hurting themselves." 
+	}
+]
